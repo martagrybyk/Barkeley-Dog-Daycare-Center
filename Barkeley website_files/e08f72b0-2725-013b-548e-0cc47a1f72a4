@@ -86,7 +86,7 @@ parent-container {
 .overlay-header-custome {
     position: relative;
     display: inline-block;
-    font-family: 'Bradley Hand', sans-serif;
+    font-family: 'Bradley Hand', Miss Magnolia Script;
 }
 
 .daycare-custome {
